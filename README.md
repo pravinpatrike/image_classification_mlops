@@ -1,7 +1,8 @@
 # **Cat vs Dog Image Classification API**  
 
 This project provides an **API for classifying images of cats and dogs** using a trained deep-learning model.
-
+* Name: Pravin Patrike
+* Roll no.: 25PGAI0008
 ---
 
 ## **Setup**
